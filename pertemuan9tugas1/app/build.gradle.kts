@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pertemuan9tugas"
+    namespace = "com.example.pertemuan9tugas1"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.pertemuan9tugas"
+        applicationId = "com.example.pertemuan9tugas1"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -48,7 +48,6 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
-    implementation(libs.androidx.gridlayout)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

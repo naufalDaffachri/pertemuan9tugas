@@ -1,4 +1,4 @@
-package com.example.pertemuan9tugas
+package com.example.pertemuan9tugas1
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
@@ -7,7 +7,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
-import com.example.pertemuan9tugas.databinding.ActivityMainBinding
+import com.example.pertemuan9tugas1.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
